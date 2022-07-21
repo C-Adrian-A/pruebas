@@ -1,0 +1,2 @@
+crear DB
+crear tabla
